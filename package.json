@@ -1,7 +1,6 @@
 {
   "name": "makeapi",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fchikwekwe/vincenzoo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fchikwekwe/vincenzoo/issues"
+  },
+  "homepage": "https://github.com/fchikwekwe/vincenzoo#readme",
+  "description": ""
 }
